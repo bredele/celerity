@@ -1,0 +1,12 @@
+{
+  "name": "celerity",
+  "repo": "bredele/celerity",
+  "description": "speed rate",
+  "version": "0.0.1",
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
